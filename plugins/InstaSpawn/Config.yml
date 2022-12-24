@@ -1,0 +1,4 @@
+SpawnWorld: hub
+SpawnInMiddleOfBlock: true
+LookAngle: 0
+PortalOnly: false
